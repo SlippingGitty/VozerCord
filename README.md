@@ -11,5 +11,5 @@ VozerCord aims to make your Discord Experience BASED.
 * VozerCord will probably ban you from Discord instantly, I'm not too sure.
 * This Discord mod doesn't have an installer because that would be bloat
 * VozerCord is 100% faster at mining crypto from your PC than Lightcord would ever dream to
-* Comes with every single DevilBro plugin so you don't have to worry about finding them yourself
+* This client mod comes with every single DevilBro plugin so you don't have to worry about finding them yourself
 * 
