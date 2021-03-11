@@ -7,9 +7,9 @@ VozerCord aims to make your Discord Experience BASED.
 ## Features
 
 * Unlike the other Discord mods which dont embrace Message Loggers, this one COMES with one
-* Vozercord removes Dark mode completely. Two themes are bloat.
+* VozerCord removes Dark mode completely. Two themes are bloat.
 * VozerCord will probably ban you from Discord instantly, I'm not too sure.
-* VozerCOrd doesn't have an installer because that would be bloat
+* VozerCord doesn't have an installer because that would be bloat
 * VozerCord is 100% faster at mining crypto from your PC than Lightcord would ever dream to
 * VozerCord comes with every single DevilBro plugin so you don't have to worry about finding them yourself
 * 
