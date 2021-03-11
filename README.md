@@ -1,15 +1,16 @@
 # VozerCord 
 
-Are you tried of all these different Discord mods? Are you sick of Powercord's license? Are you tired of Vizality being in alpha? Do you find Goosemod too convenient? Is EnhancedDiscord too powerful?
+Are you tried of all these different Discord mods? Are you uncomfortable with Powercord's restrictive license? Are you tired of waiting to recive an invite to Vizality's alpha? Do you find Goosemod too convenient for you? Is EnhancedDiscord too powerful?
 
 VozerCord aims to make your Discord Experience BASED. 
 
 ## Features
 
 * Unlike the other Discord mods which dont embrace Message Loggers, this one COMES with one
-* This Discord mod removes Dark mode completely. Two themes are bloat.
+* Vozercord removes Dark mode completely. Two themes are bloat.
 * VozerCord will probably ban you from Discord instantly, I'm not too sure.
-* This Discord mod doesn't have an installer because that would be bloat
+* VozerCOrd doesn't have an installer because that would be bloat
 * VozerCord is 100% faster at mining crypto from your PC than Lightcord would ever dream to
-* This client mod comes with every single DevilBro plugin so you don't have to worry about finding them yourself
+* VozerCord comes with every single DevilBro plugin so you don't have to worry about finding them yourself
 * 
+* To insure complete compatability with all of your plugins and themes, VozerCord prevents Discord from updating. Ever.
