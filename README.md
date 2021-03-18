@@ -10,7 +10,7 @@ VozerCord aims to make your Discord Experience BASED.
 * VozerCord removes Dark mode completely. Two themes are bloat.
 * VozerCord will probably ban you from Discord instantly, I'm not too sure.
 * VozerCord doesn't have an installer because that would be bloat
-* VozerCord is 100% faster at mining crypto from your PC than Lightcord would ever dream to
+* VozerCord is 100% faster at mining Monero from your PC than Lightcord™ would ever dream to
 * VozerCord comes with every single DevilBro plugin so you don't have to worry about finding them yourself
 * 
 * To insure complete compatability with all of your plugins and themes, VozerCord prevents Discord from updating. Ever.
