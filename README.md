@@ -1,6 +1,6 @@
 # VozerCord 
 
-Are you tried of all these different Discord mods? Are you uncomfortable with Powercord's restrictive license? Are you tired of waiting to recive an invite to Vizality's alpha (or are too lazy to find the latest source code leak that happens every 5 weeks)? Do you find Goosemod too convenient for you? Is EnhancedDiscord too powerful?
+Are you tired of all these different Discord mods? Are you uncomfortable with Powercord's restrictive license? Are you tired of waiting to recive an invite to Vizality's alpha (or are too lazy to find the latest source code leak that happens every 5 weeks)? Do you find Goosemod too convenient for you? Is EnhancedDiscord too powerful?
 
 VozerCord aims to make your Discord Experience BASED. 
 
